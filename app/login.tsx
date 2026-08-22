@@ -40,7 +40,6 @@ export default function Login() {
     }
   };
 
-  // TODO: Add a loading state
   return (
     <SafeAreaView className="flex-1 bg-background" edges={["top", "bottom"]}>
       <KeyboardAvoidingView
